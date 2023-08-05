@@ -1,0 +1,1 @@
+alert("Javascript test en la pantalla de contacto");
